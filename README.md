@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Leonora!
 - 👀 I’m interested in Frontend Development, UX/UI Design, and Data Analytics
-- 🌱 I’m currently learning MERN stack and Figma
 - 💞️ I’m looking to collaborate on projects related to Frontend Development and/or UX/UI Design
 - 📫 How to reach me: leonorafanene@gmail.com
 - 😄 Pronouns: she/her/hers
